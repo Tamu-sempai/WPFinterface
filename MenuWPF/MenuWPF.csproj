@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="blue.png" />
+    <None Remove="closeTWO.png" />
+    <None Remove="color.png" />
+    <None Remove="green.png" />
+    <None Remove="red.png" />
+    <None Remove="violet.png" />
+    <None Remove="you.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="blue.png" />
+    <Resource Include="closeTWO.png" />
+    <Resource Include="color.png" />
+    <Resource Include="green.png" />
+    <Resource Include="red.png" />
+    <Resource Include="violet.png" />
+    <Resource Include="you.png" />
+  </ItemGroup>
+
+</Project>

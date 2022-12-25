@@ -1,0 +1,42 @@
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.csproj.AssemblyReference.cache
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger_MarkupCompile.cache
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger_MarkupCompile.lref
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\bin\Debug\net6.0-windows\MultiDataTrigger.exe
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\bin\Debug\net6.0-windows\MultiDataTrigger.deps.json
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\bin\Debug\net6.0-windows\MultiDataTrigger.runtimeconfig.json
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\bin\Debug\net6.0-windows\MultiDataTrigger.dll
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\bin\Debug\net6.0-windows\MultiDataTrigger.pdb
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.g.resources
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.AssemblyInfoInputs.cache
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.AssemblyInfo.cs
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.dll
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\refint\MultiDataTrigger.dll
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.pdb
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.genruntimeconfig.cache
+C:\Users\KDFX Team\Desktop\хрень какая-то\ТРПО\InterfaceWPF\MultiDataTrigger\obj\Debug\net6.0-windows\ref\MultiDataTrigger.dll
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\bin\Debug\net6.0-windows\MultiDataTrigger.exe
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\bin\Debug\net6.0-windows\MultiDataTrigger.deps.json
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\bin\Debug\net6.0-windows\MultiDataTrigger.runtimeconfig.json
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\bin\Debug\net6.0-windows\MultiDataTrigger.dll
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\bin\Debug\net6.0-windows\MultiDataTrigger.pdb
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.csproj.AssemblyReference.cache
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger_MarkupCompile.cache
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger_MarkupCompile.lref
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.g.resources
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.AssemblyInfoInputs.cache
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.AssemblyInfo.cs
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.dll
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\refint\MultiDataTrigger.dll
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.pdb
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\MultiDataTrigger.genruntimeconfig.cache
+C:\Users\KDFX Team\Desktop\Interface_WPF\MultiDataTrigger\obj\Debug\net6.0-windows\ref\MultiDataTrigger.dll

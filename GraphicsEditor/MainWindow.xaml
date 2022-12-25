@@ -1,0 +1,31 @@
+﻿<Window x:Class="GraphicsEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraphicsEditor"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas Margin="0,0,170,0" >
+        <StackPanel Height="434" Width="169" Canvas.Left="631" >
+            <ComboBox Width="120" Margin= "10,40,0,0" Text="Color" SelectionChanged="ComboBox_Selected" x:Name="cmbColors">
+                <ComboBoxItem Content="Red" Selected="cmb_RED_SelectionChanged"/>
+                <ComboBoxItem Content="Green" Selected="cmb_Green_SelectionChanged"/>
+                <ComboBoxItem Content="Blue" Selected="cmb_Blue_SelectionChanged"/>
+                <ComboBoxItem Content="Brown" Selected="cmb_Brown_SelectionChanged"/>
+                <ComboBoxItem Content="Khaki" Selected="cmb_Khaki_SelectionChanged"/>
+            </ComboBox>
+            <Slider x:Name="WidthPen" Margin= "10,30,0,0" Height="25" Width="130" Minimum="1" Maximum="100" Value="20" ValueChanged="SliderPen"/>
+            <RadioButton Checked="RadioButton_Pen"  Margin= "20,30,0,0" GroupName="Boot" x:Name="RadioButton_Boot1">Рисовать</RadioButton>
+            <RadioButton Checked="RadioButton_Erase" Margin= "20,10,0,0" GroupName="Boot" x:Name="RadioButton_Boot2">Стереть</RadioButton>
+            <RadioButton Checked="RadioButton_Highl" Margin= "20,10,0,0" GroupName="Boot" x:Name="RadioButton_Boot4">Выделить</RadioButton>
+            <RadioButton Checked="RadioButton_Delet" Margin= "20,10,0,0" GroupName="Boot" x:Name="RadioButton_Boot3">Удалить</RadioButton>
+
+        </StackPanel>
+        <InkCanvas x:Name="MyCanvas">
+            <InkCanvas.DefaultDrawingAttributes>
+                <DrawingAttributes Color="Black" Height="10" Width="1"/>
+            </InkCanvas.DefaultDrawingAttributes>
+        </InkCanvas>
+    </Canvas>
+</Window>
